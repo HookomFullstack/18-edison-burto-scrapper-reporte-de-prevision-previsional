@@ -1,0 +1,22 @@
+{
+  "name": "18-edison-burto-scrapper-reporte-de-prevision-previsional",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^5.0.1",
+    "colors": "^1.4.0",
+    "exceljs": "^4.3.0",
+    "mongoose": "^6.5.1",
+    "puppeteer": "15.5.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.19"
+  }
+}
